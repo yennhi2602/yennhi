@@ -11,8 +11,8 @@
 ---
 
 ## 🎓 Giới thiệu bản thân
-- Họ tên: Yên Nhi  
-- Email: your_email@example.com  
+- Họ tên: Trần Thị Yến Nhi
+- Email: nhi96942@gmail.com 
 - Sở thích: Lập trình, MATLAB, Python, C/C++  
 - Mục tiêu: Học hỏi, chia sẻ code và nâng cao kỹ năng lập trình  
 
