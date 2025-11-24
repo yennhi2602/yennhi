@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/your_avatar_id?v=4" width="150" height="150" alt="Avatar"/>
 </p>
 
-<h1 align="center">Xin chào! Mình là Yên Nhi 👋</h1>
+<h1 align="center">Xin chào! Mình là Yến Nhi 👋</h1>
 
 <p align="center">
   Sinh viên CNTT, yêu thích lập trình và Digital Image Processing
